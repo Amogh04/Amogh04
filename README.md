@@ -2,9 +2,11 @@
 
 ###
 
-<h2 align="left">Hi there! 👋🏻   I'm Amogh, a Full-stack web developer, with a deep passion for solving algorithmic challenges, engaging in competitive coding, and exploring the endless potential and applications of Machine Learning.</h2>
+<h3 align="left">Hi there! 👋🏻   I'm Amogh, a Full-stack web developer, with a deep passion for solving algorithmic challenges, engaging in competitive coding, and exploring the endless potential and applications of Machine Learning.</h3>
 
 ###
+
+<br>
 
 <br clear="both">
 
