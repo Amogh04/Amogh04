@@ -43,12 +43,12 @@
 
 <br clear="both">
 
-<img align="right" height="175" src="https://media1.tenor.com/m/EQgGC_nCNU8AAAAC/working-hard-tardis.gif"  />
+<img align="right" height="175" src="https://media1.tenor.com/m/EQgGC_nCNU8AAAAC/working-hard-tardis.gif" height="150" alt="streak graph"  />
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=amogh04&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=25" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=amogh04&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=26"  />
 </div>
 
 ###
